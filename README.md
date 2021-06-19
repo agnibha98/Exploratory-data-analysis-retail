@@ -8,7 +8,8 @@ I have created visualizations, tried to gain insights and draw conclusions from 
  * Ship Mode
  * Segment
  * Country
- * City,State
+ * City
+ * State
  * Postal Code
  * Region
  * Category
