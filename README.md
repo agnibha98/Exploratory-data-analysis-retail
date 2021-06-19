@@ -4,7 +4,7 @@ The goal of this project is to explore the data to derive business problems find
 I have created visualizations, tried to gain insights and draw conclusions from the data.
 
 # Dataset
- The dataset consists of samples with the following attributes:
+ The dataset consists of 9994 samples with the following attributes:
  * Ship Mode
  * Segment
  * Country
